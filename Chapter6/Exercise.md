@@ -323,6 +323,8 @@ void Heap::Heap_Delete(int i)
   
 ##### 6.5-8
 
+[算法导论6.5-8堆排序-K路合并](http://blog.csdn.net/mishifangxiangdefeng/article/details/7668486)
+
 step1：取每个链表的第一个元素，构造成一个含有k个元素的堆
 
 step2：把根结点的值记入排序结果中。
