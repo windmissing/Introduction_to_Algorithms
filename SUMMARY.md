@@ -10,7 +10,7 @@
    * [思考题](Chapter7/Thinking.md)
 * [第10章：栈和队列]()
    * [笔记和代码]()
-      * [10-1 栈和队列](Chapter/10-1-stack-and-queue.md)
+      * [10-1 栈和队列](Chapter10/10-1-stack-and-queue.md)
    * [练习题]()
    * [思考题]()
 * [第15章：动态规划](Chapter15/Introduction.md)
