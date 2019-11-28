@@ -7,25 +7,12 @@ category: [算法导论, series]
 tags: [算法导论]
 ---
 
-#### 第8章 线性时间排序
-
-[算法导论 第8章 线性时间排序](http://blog.csdn.net/mishifangxiangdefeng/article/details/7678859)
-
-##### 练习题
-
-[算法导论8.3-4 O(n)时间内对[0..n^-1]之间的n个数排序](http://blog.csdn.net/mishifangxiangdefeng/article/details/7685839)  
-
-##### 思考题
-
-[算法导论-8-3-排序不同长度的数据项](http://blog.csdn.net/mishifangxiangdefeng/article/details/7686099)  
-
 #### 第9章 排序和顺序统计学算法导论
 
 [ 算法导论 第9章 排序和顺序统计学算法导论](http://blog.csdn.net/mishifangxiangdefeng/article/details/7687460)  
 
 ##### 练习题
 
-[9.1-1求第二小元素](http://windmissing.github.io/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/2015-12/9.1-1-second_smallest_element.html)  
 [ 算法导论-9.3-3-快速排序-最坏时间O(nlgn)](http://blog.csdn.net/mishifangxiangdefeng/article/details/7687733)  
 [算法导论 9.3-6 nlgk时间求k分位数](http://blog.csdn.net/mishifangxiangdefeng/article/details/7689102)  
 [算法导论 9.3-8 求两个数组的中位数](http://blog.csdn.net/mishifangxiangdefeng/article/details/7690461)  
