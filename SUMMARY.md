@@ -17,6 +17,9 @@
       * [10-1 栈和队列](Chapter10/10-1-stack-and-queue.md)
    * [练习题]()
    * [思考题]()
+* [第12章]
+   * [笔记和代码]
+      * [12-2 基数树](Chapter12/12-2-radix-tree.md)
 * [第14章]()
    * [笔记和代码]()
       * [14.3-6 MIN GAP](Chapter14/14.3-6-MIN-GAP.md)
