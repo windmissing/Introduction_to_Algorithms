@@ -212,8 +212,3 @@ c)遇到这种数学题就没办法了，哎，以前数学没学好
 d)不会求
 
 [附自己写的程序](https://github.com/windmissing/exerciseForAlgorithmSecond/blob/master/src/chapter7/Exercise7_5.cpp)
-
-
-### 7-6 对区间的模糊排序
-
-见[算法导论7-6对区间的模糊排序](http://blog.csdn.net/mishifangxiangdefeng/article/details/7681109)

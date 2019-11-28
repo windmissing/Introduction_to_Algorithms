@@ -1,6 +1,6 @@
 #### 一、题目
 
-![](http://windmissing.github.io/images_for_gitbook/Introductions_to_Algorithms/1.gif)  
+![](http://windmissing.github.io/images_for_gitbook/Introduction_to_Algorithms/1.gif)  
 
 #### 二、思考
 
