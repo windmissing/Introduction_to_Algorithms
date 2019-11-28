@@ -48,7 +48,4 @@ d）和二叉堆的实现完全一样，时间复杂度是O(lgn/lgd)
 
 e）和二叉堆的实现完全一样，时间复杂度是O(lgn/lgd) 
   
-  
-### 6-3 Young氏矩阵
 
-见[算法导论 6-3 Young氏矩阵](http://blog.csdn.net/mishifangxiangdefeng/article/details/7976452)

@@ -323,7 +323,7 @@ void Heap::Heap_Delete(int i)
   
 ##### 6.5-8
 
-[算法导论6.5-8堆排序-K路合并](http://blog.csdn.net/mishifangxiangdefeng/article/details/7668486)
+题目：请给出一个时间为O(nlgk)、用来将k个已排序链表合成一个排序链表算法。此处n为所有输入链表中元素的总数。（提示：用一个最小堆来做k路合并）  
 
 step1：取每个链表的第一个元素，构造成一个含有k个元素的堆
 

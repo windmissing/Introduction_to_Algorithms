@@ -1,19 +1,10 @@
----
-layout: post
-title:  "算法导论 6-3 Young氏矩阵 "
-category:  算法导论
-tags: [ 算法导论, 算法, 堆]
----
-
 #### 一、题目
 
-![image](http://img.my.csdn.net/uploads/201209/13/1347537936_2367.gif)
+![](http://windmissing.github.io/images_for_gitbook/Introductions_to_Algorithms/1.gif)  
 
 #### 二、思考
 
 最小Young氏矩阵和最小堆的思想差不多，可以通过比较两者的同异来理解Young氏矩阵
-
-<!-- more -->
 
 ##### 不同点：
 
