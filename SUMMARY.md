@@ -11,6 +11,7 @@
 * [第15章：动态规划](Chapter15/Introduction.md)
    * [练习题](Chapter15/Exercise.md)
    * [思考题](Chapter15/Thinking.md)
+      * [15-2 整齐打印](Chapter15/15-2-tidy-print.md)
 * [第20章：斐波那契堆](Chapter20/Introduction.md)
    * [练习题](Chapter20/Exercise.md)
    * [思考题](Chapter20/Thinking.md)
