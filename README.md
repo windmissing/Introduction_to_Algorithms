@@ -1,27 +1,6 @@
 # Introduction_to_Algorithms
 
----
-layout: post
-title:  "算法导论文章列表"
-category: [算法导论, series]
-tags: [算法导论]
----
 
-#### 第9章 排序和顺序统计学算法导论
-
-[ 算法导论 第9章 排序和顺序统计学算法导论](http://blog.csdn.net/mishifangxiangdefeng/article/details/7687460)  
-
-##### 练习题
-
-[ 算法导论-9.3-3-快速排序-最坏时间O(nlgn)](http://blog.csdn.net/mishifangxiangdefeng/article/details/7687733)  
-[算法导论 9.3-6 nlgk时间求k分位数](http://blog.csdn.net/mishifangxiangdefeng/article/details/7689102)  
-[算法导论 9.3-8 求两个数组的中位数](http://blog.csdn.net/mishifangxiangdefeng/article/details/7690461)  
-
-##### 思考题
-
-[算法导论-9-2-c-带权中位数](http://blog.csdn.net/mishifangxiangdefeng/article/details/7690962)  
-
-####
 
 [ 算法导论 第10章 10.1 栈和队列](http://blog.csdn.net/mishifangxiangdefeng/article/details/7693200)  
 [算法导论 第10章 10.2 链表](http://blog.csdn.net/mishifangxiangdefeng/article/details/7701376)  
