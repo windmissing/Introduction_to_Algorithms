@@ -22,9 +22,13 @@
    * [思考题](Chapter9/Thinking.md)
       * [9-2-c-带权中位数](Chapter9/9-2-c.md)
 * [第10章：栈和队列]()
-   * [笔记和代码]()
-      * [10-1 栈和队列](Chapter10/10-1-stack-and-queue.md)
-   * [练习题]()
+   * [10.1 栈和队列](Chapter10/10-1/10-1-stack-and-queue.md)
+      * [练习题](Chapter10/10-1/Exercise.md)
+      * [10.1-2 用一个数组实现两个栈](Chapter10/10-1/10.1-2.md)
+      * [10.1-5 双端队列](Chapter10/10-1/10.1-5.md)
+   * [10.2 链表](Chapter10/10-2/Introduction.md)
+      * [练习题](Chapter10/10-2/Exercise.md)
+      * [10.2-5 环形链表实现字典操作INSERT、DELETE、SEARCH](Chapter10/10-2/10.2-5.md)
    * [思考题]()
 * [第12章]
    * [笔记和代码]
