@@ -1,12 +1,10 @@
 # Introduction_to_Algorithms
 
-[算法导论 第10章 10.3 指针和对象实现](http://blog.csdn.net/mishifangxiangdefeng/article/details/7707219)  
 [算法导论 第10章 10.4 有根树的表示](http://blog.csdn.net/mishifangxiangdefeng/article/details/7707756)
 
 ##### 练习题
 
 [算法导论 10.2-8 用一个指针实现双链表](算法导论 10.2-8 用一个指针实现双链表)  
-[算法导论 10.3-4 紧凑的多重数组](http://blog.csdn.net/mishifangxiangdefeng/article/details/7707149)  
 [算法导论 10.4-2 O(n)时间 递归遍历二叉树](http://blog.csdn.net/mishifangxiangdefeng/article/details/39010925)  
 [ 算法导论 10.4-3 O(n) 二叉树 非递归遍历](http://blog.csdn.net/mishifangxiangdefeng/article/details/39012249)  
 [算法导论 10.4-5 O(n)时间非递归遍历二叉树](http://blog.csdn.net/mishifangxiangdefeng/article/details/7708490)

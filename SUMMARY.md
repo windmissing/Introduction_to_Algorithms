@@ -29,6 +29,9 @@
    * [10.2 链表](Chapter10/10-2/Introduction.md)
       * [练习题](Chapter10/10-2/Exercise.md)
       * [10.2-5 环形链表实现字典操作INSERT、DELETE、SEARCH](Chapter10/10-2/10.2-5.md)
+   * [10.3 指针和对象实现](Chapter10/10-3/Introduction.md)
+      * [练习题](Chapter10/10-3/Exercise.md)
+      * [10.3-4 紧凑的多重数组](Chapter10/10-3/10.3-4.md)
    * [思考题]()
 * [第12章]
    * [笔记和代码]
