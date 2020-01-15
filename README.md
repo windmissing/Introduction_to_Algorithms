@@ -13,14 +13,10 @@
 
 #### 第11章-散列表
 
-[算法导论-第11章-散列表](http://blog.csdn.net/mishifangxiangdefeng/article/details/7713307)  
-
 ##### 练习题
 
 [算法导论 11.1-4 大数组的直接寻址表](http://blog.csdn.net/mishifangxiangdefeng/article/details/7709567)  
 [ 算法导论 11.2-4 散列表内未占用槽链接成自由链表](http://blog.csdn.net/mishifangxiangdefeng/article/details/7712094)  
-
-##### 思考题
 
 #### 第12章 二叉查找树
 

@@ -33,6 +33,7 @@
       * [练习题](Chapter10/10-3/Exercise.md)
       * [10.3-4 紧凑的多重数组](Chapter10/10-3/10.3-4.md)
    * [思考题]()
+* [第11章 散列表](Chapter11/Introduction.md)
 * [第12章]
    * [笔记和代码]
       * [12-2 基数树](Chapter12/12-2-radix-tree.md)
