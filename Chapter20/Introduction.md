@@ -62,3 +62,6 @@ FIB-HEAP-DECREASE-KEY和FIB-HEAP-DELETE这两个函数作用不大。
 1.FibHeap.h   
 2.FibHeap.cpp   
 3.测试用例   
+
+
+[算法导论 第20章 斐波那契堆](http://blog.csdn.net/mishifangxiangdefeng/article/details/7823588)  

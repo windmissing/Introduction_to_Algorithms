@@ -92,3 +92,13 @@ kill ： 去掉
 ![](http://img.my.csdn.net/uploads/201208/30/1346306980_6765.gif)  
 ![](http://img.my.csdn.net/uploads/201208/30/1346306998_5928.gif) 
 
+
+
+##### 思考题
+
+[算法导论-15-1-双调欧几里得旅行商问题](http://blog.csdn.net/mishifangxiangdefeng/article/details/7918983)  
+[算法导论-15-2-整齐打印](http://windmissing.github.io/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/2012-08/algorithm-15-2-tidy-print.html)  
+[算法导论-15-3-编辑距离](http://windmissing.github.io/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/2012-08/edit-distance.html)  
+[算法导论-15-4-计划一个公司聚会](http://blog.csdn.net/mishifangxiangdefeng/article/details/7930830)  
+[ 算法导论-15-6-在棋盘上移动](http://blog.csdn.net/mishifangxiangdefeng/article/details/7931438)  
+[算法导论-15-7-达到最高效益的调度](http://blog.csdn.net/mishifangxiangdefeng/article/details/7932349)  

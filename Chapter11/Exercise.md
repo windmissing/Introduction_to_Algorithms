@@ -223,3 +223,5 @@ void Hash_Delete(int *T, int k, Probing p)
 }
 ```
 
+[算法导论 11.1-4 大数组的直接寻址表](http://blog.csdn.net/mishifangxiangdefeng/article/details/7709567)  
+[ 算法导论 11.2-4 散列表内未占用槽链接成自由链表](http://blog.csdn.net/mishifangxiangdefeng/article/details/7712094)  

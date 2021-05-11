@@ -66,3 +66,7 @@ TREE-PRINT(T, S)
 10.4-6
 
 去掉parent指针，当布尔值为1时，rightchild指向父结点，当布尔值为0值，rightchild指向右兄弟，其余用法保持不变
+
+[算法导论 10.4-2 O(n)时间 递归遍历二叉树](http://blog.csdn.net/mishifangxiangdefeng/article/details/39010925)  
+[ 算法导论 10.4-3 O(n) 二叉树 非递归遍历](http://blog.csdn.net/mishifangxiangdefeng/article/details/39012249)  
+[算法导论 10.4-5 O(n)时间非递归遍历二叉树](http://blog.csdn.net/mishifangxiangdefeng/article/details/7708490)

@@ -1,9 +1,4 @@
----
-layout: post
-title:  "算法导论 12-2 基数树"
-category: [算法导论]
-tags: []
----
+[算法导论 第12章 二叉查找树](http://blog.csdn.net/mishifangxiangdefeng/article/details/7718917)  
 
 #### 题目
 
@@ -111,3 +106,9 @@ int main()
     return 0;  
 }  
 ```
+
+
+##### 思考题
+
+[算法导论-12-1-具有相同关键字元素的二叉查找树](http://blog.csdn.net/mishifangxiangdefeng/article/details/7719138)  
+[算法导论-12-2-基数树](http://windmissing.github.io/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA/2012-07/12-2-radix-tree.html)  

@@ -1,0 +1,1 @@
+[算法导论 第10章 10.4 有根树的表示](http://blog.csdn.net/mishifangxiangdefeng/article/details/7707756)
