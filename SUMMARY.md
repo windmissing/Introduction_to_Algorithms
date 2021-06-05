@@ -19,6 +19,7 @@
       * [9.1-1](Chapter9/Exercise/9.1-1-second_smallest_element.md)
       * [9.3-3 快速排序-最坏时间O(nlgn)](Chapter9/Exercise/9.3-3.md)
       * [9.3-6 nlgk时间求k分位数](Chapter9/Exercise/9.3-6.md)
+      * [9.3-8 求两个数组的中位数](Chapter9/Exercise/9.3-8.md)
    * [思考题](Chapter9/Thinking.md)
       * [9-2-c-带权中位数](Chapter9/9-2-c.md)
 * 第10章：栈和队列
