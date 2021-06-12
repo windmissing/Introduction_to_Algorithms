@@ -7,35 +7,3 @@
 φ(1)=1（唯一和1互质的数就是1本身）。
 欧拉函数是积性函数——若m,n互质，φ(mn)=φ(m)φ(n)。
 特殊性质：当n为奇数时，φ(2n)=φ(n), 证明于上述类似。
-
-```c++
-#include <iostream>
-using namespace std;
-int eo(int m)
-{
-   int i,s=1;
-   for(i=2;i*i<=m;i++)
-   {
-       if(m%i==0)
-       {
-           m/=i;
-           s*=i-1;
-           while(m%i==0)
-           {
-               m/=i;
-               s*=i;
-           }
-       }
-   }
-   if(m>1)
-       s*=m-1;
-   return s;
-}
-int main()
-{
-   int m;
-   while(cin>>m && m)
-       cout<<m-1-eo(m)<<endl;
-   return 0;
-}
-```
